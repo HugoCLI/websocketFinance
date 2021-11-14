@@ -1,0 +1,16 @@
+{
+  "name": "NodeFinance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "start.js",
+  "author": {
+    "name": "Neron",
+    "email": "customer@neronapp.com"
+  },
+  "dependencies": {
+    "chalk": "4.1.1",
+    "shelljs": "0.8.4",
+    "ws": "7.5.3",
+    "colors": "1.4.0"
+  }
+}
